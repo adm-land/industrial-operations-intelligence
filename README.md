@@ -10,6 +10,12 @@ Proyecto de **Business Intelligence en Power BI** enfocado en el análisis y mon
 
 Construir una solución de análisis industrial que concentre los principales indicadores de operación en un solo reporte interactivo y permita analizar el desempeño por periodo, línea, producto, proveedor y material.
 
+## Archivos principales
+
+- [Dashboard Power BI (.pbix)](Industrial_Operations_Intelligence_Alan_Martinez.pbix)
+- [Base de datos del proyecto (.xlsx)](data/datos_operacion_industrial.xlsx)
+- [Documentación del modelo de datos](docs/modelo-datos.md)
+
 ## Páginas del dashboard
 
 - **Resumen Ejecutivo**: OEE, cumplimiento de producción, scrap, OTIF, unidades producidas, costo de mantenimiento, tendencia de OEE y Pareto de paros.
@@ -60,8 +66,10 @@ industrial-operations-intelligence/
 ├── Industrial_Operations_Intelligence_Alan_Martinez.pbix
 ├── README.md
 ├── data/
+│   ├── README.md
 │   └── datos_operacion_industrial.xlsx
 ├── assets/
+│   ├── README.md
 │   ├── resumen-ejecutivo.png
 │   ├── produccion-calidad.png
 │   ├── mantenimiento.png
