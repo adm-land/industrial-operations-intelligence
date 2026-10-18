@@ -1,0 +1,1 @@
+Datos simulados utilizados para el proyecto Industrial Operations Intelligence.
